@@ -1,1 +1,0 @@
-# mdArray.js
